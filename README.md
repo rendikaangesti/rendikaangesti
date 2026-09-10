@@ -1,26 +1,37 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:3b82f6&height=220&section=header&text=Djoeragan%20Cyber&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20IT%20Support%20%7C%20Cybersecurity%20Enthusiast&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+  <!-- Header Banner Dynamic SVG -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:2563eb&height=220&section=header&text=DJOERAGAN%20CYBER&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Solutions%20%7C%20Custom%20Software%20%7C%20Cybersecurity%20Partner&descSize=16&descAlignY=62" width="100%" alt="Djoeragan Cyber Header" />
 
-  <h1>Hi there, I'm Rendika Angesti 👋</h1>
+  <h1>Hi, I'm Rendika Angesti 👋</h1>
 
   <p>
-    <b>IT Support Specialist</b> & <b>Full-Stack Web Developer</b> passionate about building scalable web applications, custom enterprise software, and cybersecurity solutions.
+    <b>IT Support Specialist</b>, <b>Full-Stack Developer</b>, & <b>Web Development Service Provider</b> based in Indonesia.
   </p>
 
   <p>
-    💼 <b>Current Focus:</b> Developing Hospital Information Systems (SIMRS) & Web Security Tooling<br>
-    📧 <b>Contact:</b> rendikaangesti4@gmail.com | 💬 <b>Instagram:</b> @rendikaangestii
+    🎓 <b>Education:</b> Informatics Student at Universitas Mercu Buana<br>
+    🏢 <b>Business & Service:</b> IT Solutions, Web Development & Custom Software at <b>Djoeragan Cyber</b><br>
+    💼 <b>Specialization:</b> Custom Web Applications, Company Profiles, Hospital Information Systems (SIMRS), & Web Security Tools<br>
+    📧 <b>Email:</b> rendikaangesti4@gmail.com | 📱 <b>WhatsApp:</b> +62895323579191
   </p>
 
 </div>
 
 ---
 
+### 🌐 Featured Client & Live Projects
+
+Berikut beberapa proyek web profil & platform aktif yang saya bangun dan kelola:
+
+* ⚽ **[Indonesia Sentra League](https://indonesiasleague.com/)** – Platform web resmi kompetisi dan sentra pembinaan sepak bola usia dini hingga remaja.
+* 🏥 **[Klinik Annisa Group](https://klinikannisagroup.com/)** – Website resmi profil dan sistem informasi fasilitas kesehatan tingkat pertama PT. Annisa Mitra Husada.
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks**
+**Backend & Web Frameworks**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -28,7 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Styling & Design**
+**Frontend Styling**
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,10 +51,10 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rendikaangesti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rendikaangesti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rendika's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendikaangesti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
@@ -55,12 +66,13 @@
 
 ---
 
-### 📌 Featured Repositories
+### 🚀 Highlighted Repositories
 
-* 🛡️ **[APLIKASI-SCANNING-KERENTANAN-WEBSITE](https://github.com/rendikaangesti/APLIKASI-SCANNING-KERENTANAN-WEBSITE)** – Automated web vulnerability scanner, security audit tool, and API analysis application built with Python.
+* 🛡️ **[APLIKASI-SCANNING-KERENTANAN-WEBSITE](https://github.com/rendikaangesti/APLIKASI-SCANNING-KERENTANAN-WEBSITE)**
+  > Aplikasi pemindai kerentanan keamanan web & API, Live Security Audit Terminal, serta DAST Suite berbasis Python.
 
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ for <b>Djoeragan Cyber</b></sub>
+  <sub>⚡ Powered by <b>Djoeragan Cyber</b></sub>
 </div>
