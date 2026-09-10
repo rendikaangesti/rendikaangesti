@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <!-- HEADER HERO -->
@@ -7,7 +6,7 @@
 </a>
 
 <a href="https://github.com/rendikaangesti">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=85&lines=Building+Hospital+Information+Systems+%26+RME;Full-Stack+Web+Dev+via+Laravel+%2B+Next.js+%2B+Tailwind;Database+Architect+%2B+Complex+SQL+Optimization;Cybersecurity-Aware+Engineering+%2B+DAST+Research" alt="Typing Animation" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=85&lines=Building+Hospital+Information+Systems+%26+RME;Full-Stack+Web+Dev+via+Laravel+%2B+Next.js+%2B+Tailwind;Database+Architect+%2B+Complex+SQL+Optimization;Maintaining+Live+Production+Websites+%26+Platforms" alt="Typing Animation" width="100%" />
 </a>
 
 <br>
@@ -37,6 +36,7 @@
 <!-- NAVIGATION -->
 <p align="center">
   <a href="#-about-me"><b>About</b></a> •
+  <a href="#-active-production-systems"><b>Live Production</b></a> •
   <a href="#-technical-capabilities"><b>Capabilities</b></a> •
   <a href="#-tech-stack"><b>Tech Stack</b></a> •
   <a href="#-featured-projects--systems"><b>Projects</b></a> •
@@ -45,7 +45,7 @@
   <a href="#-contact--collaboration"><b>Contact</b></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2" alt="divider">
+<img src="https://raw.githubusercontent.com/andreasbm/rainbow/master/assets/lines/rainbow.gif" width="100%" height="2" alt="divider">
 
 </div>
 
@@ -53,11 +53,11 @@
 
 ## 🧠 About Me
 
-Hi, I'm **Rendika Angesti** — an **IT Support Specialist** and **Full-Stack Software Developer** based in Indonesia, working on enterprise web applications, medical databases, and custom software systems through **Djoeragan Cyber**.
+Hi, I'm **Rendika Angesti** — an **IT Support Specialist** and **Full-Stack Software Developer** based in Indonesia, building and maintaining production web applications, medical databases, and custom software systems through **Djoeragan Cyber**.
 
-I specialize in taking complex operational requirements and translating them into maintainable, production-grade applications: **relational database architecture (MySQL/PostgreSQL) → backend business logic & RESTful APIs → clean, responsive Tailwind CSS frontends → server deployment**.
+I specialize in taking complex operational requirements and translating them into maintainable, production-grade applications: **relational database architecture (MySQL/PostgreSQL) → backend business logic & RESTful APIs → clean, responsive Tailwind CSS frontends → server deployment & ongoing maintenance**.
 
-With practical experience in **hospital information systems (SIMRS)** and **electronic medical records (RME)**, I build software with strict data integrity, robust RBAC (Role-Based Access Control), defensive input sanitization, and clean user experience.
+With practical experience in **hospital information systems (SIMRS)**, **electronic medical records (RME)**, and active live production management for healthcare facilities (RS Annisa Cikarang & Klinik Annisa Group) and sports league platforms, I engineer systems prioritizing data integrity, robust RBAC, security, and seamless uptime.
 
 <br>
 
@@ -71,8 +71,13 @@ With practical experience in **hospital information systems (SIMRS)** and **elec
   "brand": "Djoeragan Cyber",
   "education": "Informatics Student @ Universitas Mercu Buana",
   "role": "Full-Stack Developer & IT Support Specialist",
+  "actively_maintaining": [
+    "[https://klinikannisagroup.com/](https://klinikannisagroup.com/)",
+    "[https://indonesiasleague.com/](https://indonesiasleague.com/)"
+  ],
   "specialties": [
     "Hospital Information Systems (SIMRS) & EMR Web Apps",
+    "Production System Maintenance & Server Optimization",
     "Complex Relational Database Design & Query Optimization",
     "Modern Full-Stack Development (Laravel & Next.js)",
     "Security-Aware Code & DAST Tool Development"
@@ -86,115 +91,141 @@ With practical experience in **hospital information systems (SIMRS)** and **elec
   "status": "Open for Freelance Projects & Enterprise Software Collaborations"
 }
 
-```
+🌐 Active Production Systems (Maintained Projects)
+I actively maintain live production web applications, handling bug fixes, database optimizations, feature additions, and server uptime:
 
----
+🏥 Klinik Annisa Group & RS Annisa
+🌐 Live Platform: klinikannisagroup.com
 
-## ⚡ Technical Capabilities
+Official digital web ecosystem for Klinik Annisa Group, serving healthcare information, service directories, and medical center operational integration.
 
-### 🖥️ Frontend Engineering
+Maintenance Scope:
 
+Backend API stabilization & database query optimization
+
+Clinical service module & branch data management
+
+Responsive UI maintenance using modern utility-first CSS
+
+Security patches, domain SSL, and server health management
+
+Laravel PHP MySQL Tailwind CSS Production Maintenance
+
+⚽ Indonesia Sentra League
+🌐 Live Platform: indonesiasleague.com
+
+Official web portal and competition management platform for the Indonesia Sentra League football organization.
+
+Maintenance Scope:
+
+Competition fixtures, standing tables, and live match data updates
+
+Age-group classification filtering (kelompok_usia)
+
+Automated digital player identity card system
+
+Continuous platform performance tuning and database management
+
+Laravel PHP MySQL Tailwind CSS Live Production
+
+⚡ Technical Capabilities
+🖥️ Frontend Engineering
 Crafting fast, component-driven, and utility-first user interfaces using modern CSS frameworks and JS libraries.
 
-* **Frameworks:** Next.js, React, Tailwind CSS
-* **Design Philosophy:** Pure Tailwind layouts (zero reliance on legacy UI kits)
-* **State & Data:** Context API, Custom Hooks, Async API Fetching
-* **Optimization:** Dynamic Rendering, Clean DOM Structure, Mobile Accessibility
+Frameworks: Next.js, React, Tailwind CSS
 
-### ⚙️ Backend & Database Architecture
+Design Philosophy: Pure Tailwind layouts (zero reliance on legacy UI kits)
 
+State & Data: Context API, Custom Hooks, Async API Fetching
+
+Optimization: Dynamic Rendering, Clean DOM Structure, Mobile Accessibility
+
+⚙️ Backend & Database Architecture
 Engineering secure server-side logic, data schemas, and API contracts for data-intensive applications.
 
-* **Backend Stacks:** PHP (Laravel), Node.js (Express), Python (FastAPI/Scripts)
-* **Database Engineering:** Complex Relational Modeling, Indexing, SQL Optimization
-* **Data Integrity:** Strict Server-side Validation, Role-Based Access (RBAC), Sanitize Pipeline
-* **API Standards:** RESTful APIs, JSON Response Contracts, JWT Authentication
+Backend Stacks: PHP (Laravel), Node.js (Express), Python (FastAPI/Scripts)
 
-### 🗄️ IT Operations & Infrastructure
+Database Engineering: Complex Relational Modeling, Indexing, SQL Optimization
 
-Managing system deployments, server environments, and database migrations.
+Data Integrity: Strict Server-side Validation, Role-Based Access (RBAC), Sanitize Pipeline
 
-* **Databases:** MySQL, PostgreSQL, MongoDB, Redis
-* **Infrastructure:** Docker Containers, Nginx Reverse Proxy, Linux (Ubuntu)
-* **Dev Tools:** Git Version Control, Database Migration Scripts, Postman
+API Standards: RESTful APIs, JSON Response Contracts, JWT Authentication
 
-### 🔐 Defensive & Security-Aware Engineering
+🗄️ IT Operations & Infrastructure
+Managing live server maintenance, deployments, environments, and database migrations.
 
-Bridging cybersecurity awareness into practical software development habits (*Secure-by-Design*).
+Databases: MySQL, PostgreSQL, MongoDB, Redis
 
-* **Secure Coding:** Input Filtering, SQL Injection Defense, XSS Prevention, CSRF Guards
-* **Security Tools:** Web Vulnerability Scanner Development (DAST)
-* **Research Interest:** Security Audit Workflows & Algorithmic Data Monitoring
+Infrastructure: Docker Containers, Nginx Reverse Proxy, Linux (Ubuntu)
 
----
+Dev Tools: Git Version Control, Database Migration Scripts, Postman
 
-## 🧰 Tech Stack
+🔐 Defensive & Security-Aware Engineering
+Bridging cybersecurity awareness into practical software development habits (Secure-by-Design).
 
-#### Languages & Core
+Secure Coding: Input Filtering, SQL Injection Defense, XSS Prevention, CSRF Guards
 
-#### Frontend Frameworks & Styling
+Security Tools: Web Vulnerability Scanner Development (DAST)
 
-#### Backend, Databases & Caching
+Research Interest: Security Audit Workflows & Algorithmic Data Monitoring
 
-#### Infrastructure & Workflow
-
----
-
-## 🚀 Featured Projects & Systems
-
-### 🏥 Hospital Information System (SIMRS) & Electronic Medical Records (RME)
-
+🧰 Tech Stack
+Languages & Core
+Frontend Frameworks & Styling
+Backend, Databases & Caching
+Infrastructure & Workflow
+🚀 Featured Projects & Systems
+🏥 Hospital Information System (SIMRS) & Electronic Medical Records (RME)
 A full-stack web-based healthcare management platform engineered to handle medical records, patient registration, clinical encounters, and multi-department workflows.
 
-**Highlights:**
+Highlights:
 
-* Multi-table relational database architecture designed for healthcare records
-* Role-based permissions for Admins, Doctors, Nurses, and Medical Record Officers
-* Form data displays with clean, modern Tailwind CSS interfaces
+Multi-table relational database architecture designed for healthcare records
 
-`Laravel` `PHP` `MySQL` `Tailwind CSS`
+Role-based permissions for Admins, Doctors, Nurses, and Medical Record Officers
 
-### ⚽ Indonesia Sentra League Management System
+Form data displays with clean, modern Tailwind CSS interfaces
 
-A web platform developed to manage competition fixtures, club profiles, age-group classifications, and player digital cards for football leagues.
+Laravel PHP MySQL Tailwind CSS
 
-**Highlights:**
-
-* Age-group filtering mechanisms (`kelompok_usia`)
-* Automated player identity card generation
-* Match schedule tracking and standings table management
-
-`PHP` `Laravel` `MySQL` `Tailwind CSS`
-
-### 🔎 Web Vulnerability Scanner Platform (DAST)
-
+🔎 Web Vulnerability Scanner Platform (DAST)
 An open-source security audit tool built with Python to perform dynamic security checks, detect vulnerabilities, and display real-time execution logs.
 
-**Highlights:**
+Highlights:
 
-* Live terminal execution output for security scans
-* Modular security test suites
-* Open for contributions under the MIT License
+Live terminal execution output for security scans
 
-`Python` `DAST` `Web Security` `Audit`
+Modular security test suites
 
-### 📊 Dengue Hemorrhagic Fever (DHF) Monitoring Dashboard
+Open for contributions under the MIT License
 
+Python DAST Web Security Audit
+
+📊 Dengue Hemorrhagic Fever (DHF) Monitoring Dashboard
 Academic & research data platform leveraging Machine Learning algorithms (Random Forest) for monitoring and analyzing Dengue spread patterns.
 
-**Highlights:**
+Highlights:
 
-* Machine learning data processing integration
-* Structured analytical visualization dashboard
-* Data filtering by geographic regions and temporal trends
+Machine learning data processing integration
 
-`Python` `Random Forest` `Machine Learning` `Data Visualization`
+Structured analytical visualization dashboard
 
----
+Data filtering by geographic regions and temporal trends
 
-## 🏗️ Engineering Workflow
+Python Random Forest Machine Learning Data Visualization
 
-```mermaid
+🌐 Digital Brand & Web Systems — Djoeragan Cyber
+Tailored enterprise software solutions, database migrations, and web deployment services built for regional businesses and clinical institutions.
+
+Highlights:
+
+Production server setup and maintenance
+
+Custom API integrations & DB backups
+
+Long-term technical support & infrastructure management
+
+Laravel Next.js Nginx Docker
 flowchart LR
     A["01 Requirements<br/>& Domain Analysis"] --> B["02 Relational DB Schema<br/>& ERD Architecture"]
     B --> C["03 Backend Logic<br/>& REST API Contracts"]
@@ -203,38 +234,6 @@ flowchart LR
     D --> E
     E --> F["06 Security Hardening<br/>& Sanity Review"]
     F --> G["07 Containerization<br/>& Deployment"]
-    G --> H[("08 Production<br/>Release")]
+    G --> H[("08 Production Release<br/>& Ongoing Maintenance")]
 
-```
-
-> **“Solve the underlying architectural problem first, write readable code second.”**
-
----
-
-## 📊 GitHub Analytics
-
----
-
-## 🏆 Trophy Case
-
----
-
-## 🐍 Contribution Snake
-
----
-
-## 🤝 Contact & Collaboration
-
-Open for custom software development, enterprise web application projects, database engineering, and technical system integration.
-
-| 💻 Full-Stack Development | 🏥 Health Tech / SIMRS | 🗄️ Database Architecture | 🔐 Security-Aware Code |
-| --- | --- | --- | --- |
-| Next.js & Laravel Apps | EMR & Healthcare Systems | MySQL & PostgreSQL | Input Validation & Hardening |
-
-### 📡 Get In Touch
-
-
-
-
-
-Crafted for Rendika Angesti | Djoeragan Cyber
+“Solve the underlying architectural problem first, write readable code second, maintain systems reliably forever.”📊 GitHub Analytics🏆 Trophy Case🐍 Contribution Snake🤝 Contact & CollaborationOpen for custom software development, live website maintenance contracts, enterprise web applications, and database engineering.💻 Full-Stack Development🏥 Health Tech / SIMRS🗄️ Database Architecture⚙️ Live System MaintenanceNext.js & Laravel AppsEMR & Healthcare SystemsMySQL & PostgreSQLklinikannisagroup.com & indonesiasleag
