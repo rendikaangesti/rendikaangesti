@@ -1,92 +1,204 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%"/>
+<!-- HERO -->
+<a href="https://github.com/rendikaangesti">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=RENDIKA%20ANGESTI&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20System%20Architect&descAlignY=63&descSize=18&animation=fadeIn&color=0:0F0C29,50:302B63,100:00F5FF"
+    alt="Rendika Angesti header"
+    width="100%"
+  />
+</a>
+
+<a href="https://github.com/rendikaangesti">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=92&lines=Building+Production-Ready+Software;Full-Stack+Development+%2B+System+Architecture;Security-Aware+Engineering;Turning+Ideas+Into+Products"
+    alt="Typing animation"
+    width="100%"
+  />
+</a>
 
 <br>
 
 <a href="https://github.com/rendikaangesti">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Rendika+Angesti;Full-Stack+Developer+%26+Software+Engineer;Founder+of+Djoeragan+Cyber;Turning+Ideas+Into+Production-Ready+Software;Security-Aware+by+Background%2C+Builder+by+Passion" alt="Typing SVG" />
+  <img
+    src="https://github.com/rendikaangesti.png?size=180"
+    width="150"
+    height="150"
+    alt="Rendika Angesti profile photo"
+    style="border-radius:50%;"
+  />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rendikaangesti&label=Profile%20Views&color=00f5ff&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/rendikaangesti?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0F0C29" alt="followers"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN_FOR_WORK-39FF14?style=for-the-badge&labelColor=0F0C29" alt="status"/>
-<img src="https://img.shields.io/badge/BASED_IN-INDONESIA-FF6B6B?style=for-the-badge&labelColor=0F0C29" alt="location"/>
+<a href="https://github.com/rendikaangesti">
+  <img src="https://komarev.com/ghpvc/?username=rendikaangesti&label=PROFILE%20VIEWS&style=for-the-badge&color=00F5FF&labelColor=0F0C29" alt="Profile views" />
+</a>
+<a href="https://github.com/rendikaangesti?tab=followers">
+  <img src="https://img.shields.io/github/followers/rendikaangesti?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0F0C29" alt="Followers" />
+</a>
+<a href="https://github.com/rendikaangesti">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20WORK-39FF14?style=for-the-badge&labelColor=0F0C29" alt="Open for work" />
+</a>
+<a href="https://www.google.com/maps/search/Indonesia">
+  <img src="https://img.shields.io/badge/BASED%20IN-INDONESIA-FF6B6B?style=for-the-badge&labelColor=0F0C29" alt="Based in Indonesia" />
+</a>
 
 <br><br>
 
-<a href="#-about-me">About</a> •
-<a href="#-tech-stack">Tech Stack</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#%EF%B8%8F-how-i-build-software">Workflow</a> •
-<a href="#-github-stats">Stats</a> •
+<a href="#-about-me">About</a>
+&nbsp;•&nbsp;
+<a href="#-what-i-build">What I Build</a>
+&nbsp;•&nbsp;
+<a href="#-tech-stack">Tech Stack</a>
+&nbsp;•&nbsp;
+<a href="#-featured-projects">Projects</a>
+&nbsp;•&nbsp;
+<a href="#-engineering-workflow">Workflow</a>
+&nbsp;•&nbsp;
+<a href="#-github-analytics">Analytics</a>
+&nbsp;•&nbsp;
 <a href="#-lets-work-together">Contact</a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2" alt="divider">
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+## 🧠 About Me
 
-## 👋 About Me
+Hi, I'm **Rendika Angesti** — a Full-Stack Developer based in Indonesia, building software through **Djoeragan Cyber**, my IT solutions & custom software studio.
 
-I'm **Rendika Angesti**, a Full-Stack Developer based in Indonesia, working with clients around the world through **Djoeragan Cyber** — my software & IT solutions studio. I enjoy taking a product from a rough idea to a working, deployed application: designing the database, building the API, wiring up the frontend, and making sure the whole thing actually holds up in production.
+I like turning rough requirements into something that can actually ship: **database design → backend/API → frontend → testing → deployment**.
 
-Before focusing full-time on full-stack development, I spent time in cybersecurity — and that background didn't disappear, it just changed roles. Instead of being my main job title, it's now a **soft skill** baked into how I write code: I think about input validation, auth flows, and edge cases a little more carefully than most, because I've seen what happens when nobody does.
+My earlier cybersecurity experience still shapes how I engineer software today. I naturally pay attention to **input validation, authentication, authorization, edge cases, and secure defaults** without making security the entire product story.
+
+### `profile.yaml`
 
 ```yaml
 name: Rendika Angesti
 alias: DjoeraganCyber
-role: [Full-Stack Developer, Backend Engineer, System Architect]
-soft_skills: [Cybersecurity Awareness, Problem Solving, Client Communication, Fast Learning]
-company: Djoeragan Cyber — IT Solutions & Custom Software Partner
-location: Indonesia 🇮🇩 → serving clients worldwide 🌍
-currently_building: A vulnerability-scanning SaaS platform
-currently_learning: Advanced system design & distributed architectures
+
+roles:
+  - Full-Stack Developer
+  - Backend Engineer
+  - System Architect
+
+company: Djoeragan Cyber
+focus:
+  - Production-ready web applications
+  - REST APIs
+  - Scalable backend architecture
+  - Secure-by-design engineering
+
+location: Indonesia
+serving: Worldwide
+
+currently_building:
+  - Vulnerability-scanning SaaS platform
+
+currently_learning:
+  - Advanced system design
+  - Distributed architectures
+
 mission: "Build software that is fast, elegant, and reliable."
-fun_fact: "I debug faster with coffee, but I ship either way."
-contact:
-  email: rendikaangesti4@gmail.com
-  whatsapp: "+62 895-3235-79191"
-  instagram: "@rendikaangestii"
 ```
 
-### 🎯 What I Actually Do
+---
 
-| | |
-|---|---|
-| 🖥️ **Frontend** | Building responsive, accessible interfaces with React & Next.js |
-| ⚙️ **Backend** | Designing REST APIs, authentication systems, and business logic |
-| 🗄️ **Database** | Modeling relational (PostgreSQL) and document (MongoDB) data |
-| 🚀 **DevOps** | Containerizing and deploying apps with Docker & Nginx |
-| 🔐 **Security Layer** | Applying secure-by-design principles across the stack |
-| 🤝 **Client Work** | Translating business requirements into technical specs |
+## ⚡ What I Build
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## ⚡ Tech Stack
+### 🖥️ Frontend Engineering
+
+Responsive and accessible interfaces designed to feel fast, clean, and intentional.
+
+**Focus**
+- React & Next.js
+- Responsive layouts
+- Reusable UI patterns
+- API-driven interfaces
+- Performance-minded delivery
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+Business logic and APIs designed around maintainability, clear contracts, and production usage.
+
+**Focus**
+- Node.js / Express
+- Python / Django / FastAPI
+- REST API architecture
+- Authentication & authorization
+- Validation & edge cases
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Data & Infrastructure
+
+From schema design to containerized delivery.
+
+**Focus**
+- PostgreSQL
+- MongoDB
+- Redis
+- Docker
+- Nginx
+- Linux
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Security-Aware Development
+
+Cybersecurity experience translated into day-to-day engineering habits.
+
+**Focus**
+- Secure input handling
+- Auth flow awareness
+- Defensive defaults
+- Security review
+- Risk-aware implementation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
 ### Languages & Core
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css&theme=dark" alt="JavaScript TypeScript Python HTML CSS" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" alt="React Next.js Tailwind Redux" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=dark" alt="Node.js Express Django FastAPI" />
 
-### Database & Infra
+### Database & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,nginx,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,nginx,linux&theme=dark" alt="PostgreSQL MongoDB Redis Docker Nginx Linux" />
 
-### Tools
+### Engineering Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Git GitHub VS Code Postman Figma" />
 
 </div>
 
@@ -98,208 +210,276 @@ contact:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00F5FF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+<br>
+
+![Cybersecurity Awareness](https://img.shields.io/badge/Cybersecurity_Awareness-Soft_Skill-8A2BE2?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Soft_Skill-8A2BE2?style=flat-square)
+![Client Communication](https://img.shields.io/badge/Client_Communication-Soft_Skill-8A2BE2?style=flat-square)
 
 </div>
 
-<div align="center">
+---
 
-**Soft skill pendukung:** ![Cybersecurity Awareness](https://img.shields.io/badge/Cybersecurity_Awareness-Soft_Skill-8A2BE2?style=flat-square) ![Problem Solving](https://img.shields.io/badge/Problem_Solving-Soft_Skill-8A2BE2?style=flat-square) ![Communication](https://img.shields.io/badge/Client_Communication-Soft_Skill-8A2BE2?style=flat-square)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🎯 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web & API Development
-Full-stack web applications — from database schema and REST API design to responsive, production-ready frontends.
+### 🌐 Web & API Engineering
 
-**Highlights:**
-- Clean, RESTful API architecture
-- Responsive UI with React/Next.js
+Full-stack applications built from the ground up — from **data modeling and API design** to **responsive frontend** and **containerized deployment**.
+
+**Highlights**
+- RESTful API architecture
+- React / Next.js interfaces
 - Authentication & role-based access
 - Dockerized deployment pipeline
+- Production-oriented engineering
 
 `React` `Next.js` `Node.js` `PostgreSQL`
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🔎 [APLIKASI-SCANNING-KERENTANAN-WEBSITE](https://github.com/rendikaangesti/APLIKASI-SCANNING-KERENTANAN-WEBSITE)
-An open-source Web & API vulnerability scanner with a live security audit terminal and modular DAST suite — a side project that shows application security as part of the development process, not the main focus.
+### 🔎 APLIKASI-SCANNING-KERENTANAN-WEBSITE
 
-**Highlights:**
+Open-source Web & API vulnerability scanner with a live security audit terminal and modular DAST-style scanning suite.
+
+**Highlights**
 - Real-time scan output
-- Modular, plug-and-play scan rules
-- MIT Licensed, open for contributions
+- Modular scan rules
+- Open for contributions
+- MIT Licensed
+- Security-aware engineering showcase
 
 `Python` `Security` `DAST`
+
+<br>
+
+<a href="https://github.com/rendikaangesti/APLIKASI-SCANNING-KERENTANAN-WEBSITE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rendikaangesti&repo=APLIKASI-SCANNING-KERENTANAN-WEBSITE&theme=synthwave&hide_border=true&border_radius=16" alt="Pinned vulnerability scanner repository" width="100%" />
+</a>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rendikaangesti&repo=APLIKASI-SCANNING-KERENTANAN-WEBSITE&theme=synthwave&hide_border=true"/>
-</div>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🗺️ How I Build Software
+## 🏗️ Engineering Workflow
 
 ```mermaid
 flowchart LR
-    A[Requirement & Design] --> B[Frontend - React/Next.js]
-    A --> C[Backend API - Node.js/Python]
-    B --> D[Integration & Testing]
-    C --> D
-    D --> E[Security Review]
-    E --> F[Deployment - Docker/Nginx]
-    F --> G[(Production App)]
+    A["01 Requirement<br/>Discovery"] --> B["02 Architecture<br/>& Data Model"]
+    B --> C["03 Frontend<br/>React / Next.js"]
+    B --> D["04 Backend API<br/>Node.js / Python"]
+    C --> E["05 Integration<br/>& Testing"]
+    D --> E
+    E --> F["06 Security<br/>Review"]
+    F --> G["07 Container<br/>Docker / Nginx"]
+    G --> H[("08 Production<br/>Application")]
 ```
-
-<sub>Security review masuk sebagai tahap tambahan berkat latar belakang cybersecurity — bukan fokus utama, tapi nilai tambah di setiap proyek.</sub>
-
-### 📋 My Development Principles
-
-<table>
-<tr><td>
-
-**1. Ship working software, then iterate**
-No project is perfect on the first pass — get something functional in front of users, then refine.
-
-</td></tr>
-<tr><td>
-
-**2. Readable code beats clever code**
-Future-me (and whoever inherits the codebase) should be able to understand it without a decoder ring.
-
-</td></tr>
-<tr><td>
-
-**3. Security is a habit, not a checklist**
-Input validation and sane defaults go in from day one, not bolted on at the end.
-
-</td></tr>
-<tr><td>
-
-**4. Communicate early, communicate often**
-Most project failures are communication failures, not technical ones.
-
-</td></tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🧭 Journey / Timeline
-
-```text
-2022 ─┬─ Started learning programming fundamentals (Python, JS)
-      │
-2023 ─┼─ Went deep into cybersecurity: pentesting, vulnerability research
-      │
-2024 ─┼─ Founded Djoeragan Cyber — IT Solutions & Custom Software Partner
-      │
-2025 ─┼─ Shifted focus toward full-stack development (React/Next.js/Node.js)
-      │  Built and open-sourced APLIKASI-SCANNING-KERENTANAN-WEBSITE
-      │
-2026 ─┴─ Currently: building full-stack products, security-aware by habit
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rendikaangesti&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rendikaangesti&theme=synthwave&hide_border=true" height="175"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendikaangesti&layout=compact&theme=synthwave&hide_border=true" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rendikaangesti&theme=synthwave&hide_border=true" height="165"/>
+> **Security review is part of the engineering flow — not an afterthought.**
 
 </div>
+
+### 📐 Development Principles
+
+| Principle | What it means |
+|:--|:--|
+| **01 — Ship working software** | Deliver a functional version, then iterate with feedback. |
+| **02 — Readable beats clever** | Code should remain understandable months later. |
+| **03 — Security is a habit** | Validation and sane defaults start from day one. |
+| **04 — Communicate early** | Clear requirements prevent more problems than clever code can. |
+
+---
+
+## 🗺️ Journey
+
+```text
+2022  ──► Started learning programming fundamentals
+          Python • JavaScript
+
+2023  ──► Went deeper into cybersecurity
+          Pentesting • Vulnerability research
+
+2024  ──► Founded Djoeragan Cyber
+          IT Solutions • Custom Software
+
+2025  ──► Shifted focus toward full-stack engineering
+          React • Next.js • Node.js
+          Built & open-sourced vulnerability scanner
+
+2026  ──► Current focus
+          Full-stack products
+          System design
+          Security-aware engineering
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/rendikaangesti">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rendikaangesti&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&border_radius=18"
+    height="180"
+    alt="GitHub statistics"
+  />
+</a>
+
+<a href="https://github.com/rendikaangesti">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rendikaangesti&theme=synthwave&hide_border=true&border_radius=18"
+    height="180"
+    alt="GitHub streak"
+  />
+</a>
+
+<br>
+
+<a href="https://github.com/rendikaangesti">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendikaangesti&layout=compact&theme=synthwave&hide_border=true&border_radius=18"
+    height="170"
+    alt="Top languages"
+  />
+</a>
+
+<a href="https://github.com/rendikaangesti">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rendikaangesti&theme=synthwave&hide_border=true&radius=18"
+    height="170"
+    alt="GitHub activity graph"
+  />
+</a>
+
+</div>
+
+---
 
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rendikaangesti&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=rendikaangesti&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"
+  alt="GitHub trophies"
+  width="100%"
+/>
+
 </div>
+
+---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rendikaangesti/rendikaangesti/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⬆️ Aktifkan GitHub Action "Snake" resmi (platane/snk) agar animasi ini otomatis ter-generate dari commit Anda.</sub>
+<img
+  src="https://raw.githubusercontent.com/rendikaangesti/rendikaangesti/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="GitHub contribution snake"
+/>
+
+<br>
+
+<sub>
+Enable the <b>Snake</b> GitHub Action to generate this asset automatically from contributions.
+</sub>
+
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 
 ## ❓ FAQ
 
 <details>
-<summary><b>Apa layanan utama Djoeragan Cyber?</b></summary>
+<summary><b>What does Djoeragan Cyber focus on?</b></summary>
+
 <br>
-Full-stack web & API development — dari perancangan hingga deployment. Cybersecurity tetap menjadi nilai tambah di setiap proyek, bukan layanan terpisah.
+
+Full-stack web & API development — from architecture and implementation to deployment. Cybersecurity remains a security-aware engineering advantage throughout the development process.
+
 </details>
 
 <details>
-<summary><b>Bisa kerja remote dengan klien luar negeri?</b></summary>
+<summary><b>Can you work with international clients?</b></summary>
+
 <br>
-Bisa. Komunikasi dilakukan lewat email/WhatsApp/Instagram, dan seluruh proses development bisa dipantau lewat repository & progress report berkala.
+
+Yes. Remote collaboration can be handled through email, WhatsApp, and Instagram, with development progress tracked through repositories and regular updates.
+
 </details>
 
 <details>
-<summary><b>Apa tech stack yang paling sering dipakai?</b></summary>
+<summary><b>What stack do you use most often?</b></summary>
+
 <br>
-React/Next.js di frontend, Node.js atau Python di backend, PostgreSQL/MongoDB untuk database, dan Docker untuk deployment.
+
+React / Next.js for frontend, Node.js or Python for backend, PostgreSQL / MongoDB for data, and Docker for deployment.
+
 </details>
 
 <details>
-<summary><b>Apakah proyek open-source bisa dikontribusikan?</b></summary>
+<summary><b>Can people contribute to the open-source scanner?</b></summary>
+
 <br>
-Ya — <a href="https://github.com/rendikaangesti/APLIKASI-SCANNING-KERENTANAN-WEBSITE">APLIKASI-SCANNING-KERENTANAN-WEBSITE</a> terbuka untuk pull request di bawah lisensi MIT.
+
+Yes. The repository is open for pull requests under the MIT license.
+
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 
 ## 🤝 Let's Work Together
 
 <div align="center">
 
-| 💻 Full-Stack Development | 🌐 API Engineering | ⚙️ System Architecture | 🔐 Security-Aware Consulting |
+| 💻 Full-Stack Development | 🌐 API Engineering | ⚙️ System Architecture | 🔐 Security-Aware Engineering |
 |:---:|:---:|:---:|:---:|
-| Web & mobile-ready apps | REST/GraphQL APIs | Scalable backend design | Secure-by-design guidance |
+| Web & mobile-ready apps | REST APIs & integrations | Scalable backend design | Secure-by-design guidance |
 
-</div>
+<br>
 
-<div align="center">
+### 📡 Connect
 
-### 📡 Connect With Me
-
-<a href="https://wa.me/62895323579191"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="mailto:rendikaangesti4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/rendikaangestii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://wa.me/62895323579191">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="mailto:rendikaangesti4@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://instagram.com/rendikaangestii">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 <br><br>
 
-⭐ **"First, solve the problem. Then, write the code." — John Johnson**
+> **“First, solve the problem. Then, write the code.” — John Johnson**
 
-<br><br>
+<br>
 
-<sub>Thanks for stopping by — if this profile gave you an idea or helped you out, a ⭐ on my repos goes a long way.</sub>
+<sub>
+Thanks for stopping by. A ⭐ on a repository helps keep the work moving.
+</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:302B63,100:0F0C29&height=140&section=footer"
+  width="100%"
+  alt="Footer"
+/>
