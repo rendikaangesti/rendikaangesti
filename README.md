@@ -5,14 +5,14 @@
 <br>
 
 <a href="https://github.com/rendikaangesti">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Rendika+Angesti;Cybersecurity+Consultant+%26+Penetration+Tester;Founder+of+Djoeragan+Cyber;Securing+the+Digital+World%2C+One+System+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Rendika+Angesti;Full-Stack+Developer;Founder+of+Djoeragan+Cyber;Building+Reliable+Software%2C+End+to+End" alt="Typing SVG" />
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=rendikaangesti&label=Profile%20Views&color=00f5ff&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/rendikaangesti?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0F0C29" alt="followers"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0F0C29" alt="status"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_FOR_WORK-39FF14?style=for-the-badge&labelColor=0F0C29" alt="status"/>
 
 </div>
 
@@ -23,10 +23,11 @@
 ```yaml
 name: Rendika Angesti
 alias: DjoeraganCyber
-role: [Penetration Tester, Backend Engineer, Security Architect]
-company: Djoeragan Cyber — IT Solutions, Custom Software & Cybersecurity Partner
+role: [Full-Stack Developer, Backend Engineer, System Architect]
+soft_skills: [Cybersecurity Awareness, Problem Solving, Client Communication]
+company: Djoeragan Cyber — IT Solutions & Custom Software Partner
 location: Indonesia 🇮🇩 → serving clients worldwide 🌍
-mission: "Build systems that are fast, elegant, and unbreakable."
+mission: "Build software that is fast, elegant, and reliable."
 contact:
   email: rendikaangesti4@gmail.com
   whatsapp: "+62 895-3235-79191"
@@ -35,103 +36,74 @@ contact:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,linux,docker,nginx,postgres,git,bash,kali&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,html,css,tailwind,postgres,mongodb,docker,git,linux&theme=dark" />
 
 <br><br>
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00F5FF)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=39FF14)
-![Nmap](https://img.shields.io/badge/Nmap-2C3E50?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI--Assisted_Security-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white)
+
+</div>
+
+<div align="center">
+
+**Soft skill pendukung:** ![Cybersecurity Awareness](https://img.shields.io/badge/Cybersecurity_Awareness-Soft_Skill-8A2BE2?style=flat-square)
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🎯 Flagship Build
+## 🎯 Featured Projects
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
-### 🔎 [APLIKASI-SCANNING-KERENTANAN-WEBSITE](https://github.com/rendikaangesti/APLIKASI-SCANNING-KERENTANAN-WEBSITE)
+### 🌐 Web & API Development
+Membangun aplikasi web full-stack — dari perancangan database, REST API, hingga antarmuka pengguna yang responsif.
 
-> **Enterprise-grade Web & API Vulnerability Scanner** — Live Security Audit Terminal + Modular DAST Suite.
-
-- ⚡ Real-time DAST engine, OWASP Top 10-aligned
-- 🖥️ Live terminal-style audit streaming
-- 🧩 Plug-and-play scan modules
-- 🔓 Open-source · MIT Licensed
-
-`Python` `Security` `DAST` `Automation`
+`React` `Next.js` `Node.js` `PostgreSQL`
 
 </td>
-<td width="40%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rendikaangesti&repo=APLIKASI-SCANNING-KERENTANAN-WEBSITE&theme=synthwave&hide_border=true"/>
+<td width="50%">
+
+### 🔎 [APLIKASI-SCANNING-KERENTANAN-WEBSITE](https://github.com/rendikaangesti/APLIKASI-SCANNING-KERENTANAN-WEBSITE)
+Tool pemindai kerentanan web & API dengan live audit terminal — proyek open-source yang menunjukkan pemahaman keamanan aplikasi sebagai bagian dari proses development.
+
+`Python` `Security` `DAST`
+
 </td>
 </tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🖥️ Live Security Terminal
-
-```bash
-┌──(rendika@djoeragancyber)-[~/security-ops]
-└─$ ./scan_target.sh --mode=deep --report=live
-
-[+] Initializing DAST engine...............................  OK
-[+] Loading OWASP Top 10 ruleset............................  OK
-[+] Crawling application surface............................  312 endpoints found
-[+] Testing for SQLi / XSS / SSRF / IDOR....................  IN PROGRESS
-[+] Checking TLS configuration & headers....................  PASSED
-[+] Generating executive security report....................  DONE ✔
-
->>> Scan completed in 42.7s — 0 critical, 2 medium, 5 informational
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🗺️ Service Architecture
+## 🗺️ How I Build Software
 
 ```mermaid
 flowchart LR
-    A[Client Request] --> B{Djoeragan Cyber Gateway}
-    B --> C[Vulnerability Scanner Engine]
-    B --> D[Custom Software Pipeline]
-    C --> E[DAST / SAST Modules]
-    C --> F[Live Audit Terminal]
-    D --> G[Backend API - Python]
-    D --> H[Hardened Deployment - Docker/Nginx]
-    E --> I[(Security Report)]
-    F --> I
-    G --> J[(Production System)]
-    H --> J
+    A[Requirement & Design] --> B[Frontend - React/Next.js]
+    A --> C[Backend API - Node.js/Python]
+    B --> D[Integration & Testing]
+    C --> D
+    D --> E[Security Review]
+    E --> F[Deployment - Docker/Nginx]
+    F --> G[(Production App)]
 ```
 
+<sub>Security review masuk sebagai tahap tambahan berkat latar belakang cybersecurity — bukan fokus utama, tapi nilai tambah di setiap proyek.</sub>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🎖️ Security Scorecard
-
-<div align="center">
-
-| Category | Rating |
-|---|---|
-| 🔐 Application Security | ⭐⭐⭐⭐⭐ |
-| 🛡️ Network Hardening | ⭐⭐⭐⭐⭐ |
-| ⚡ Response Time | ⭐⭐⭐⭐☆ |
-| 📋 Compliance Readiness | ⭐⭐⭐⭐⭐ |
-| 🤝 Client Satisfaction | ⭐⭐⭐⭐⭐ |
-
-</div>
 
 ## 📊 Live Metrics
 
@@ -165,9 +137,9 @@ flowchart LR
 
 <div align="center">
 
-| 🔐 Pentest | 🛡️ Vuln Scan | 💻 Custom Dev | 📋 Consulting |
+| 💻 Full-Stack Development | 🌐 API Engineering | ⚙️ System Architecture | 🔐 Security-Aware Consulting |
 |:---:|:---:|:---:|:---:|
-| Web, API & Network | Automated DAST/SAST | Tailored backend apps | Hardening & compliance |
+| Web & mobile-ready apps | REST/GraphQL APIs | Scalable backend design | Secure-by-design guidance |
 
 </div>
 
@@ -181,7 +153,7 @@ flowchart LR
 
 <br><br>
 
-⭐ **"Security is not a product, it's a process." — Bruce Schneier**
+⭐ **"First, solve the problem. Then, write the code." — John Johnson**
 
 </div>
 
