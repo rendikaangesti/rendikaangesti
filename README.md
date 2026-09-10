@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner Dynamic SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:2563eb&height=220&section=header&text=DJOERAGAN%20CYBER&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Solutions%20%7C%20Custom%20Software%20%7C%20Cybersecurity%20Partner&descSize=16&descAlignY=62" width="100%" alt="Djoeragan Cyber Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:2563eb&height=220&section=header&text=DJOERAGANKODING&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Solutions%20%7C%20Custom%20Software%20%7C%20Cybersecurity%20Partner&descSize=16&descAlignY=62" width="100%" alt="Djoeragankoding Header" />
 
   <h1>Hi, I'm Rendika Angesti 👋</h1>
 
@@ -11,7 +11,7 @@
 
   <p>
     🎓 <b>Education:</b> Informatics Student at Universitas Mercu Buana<br>
-    🏢 <b>Business & Service:</b> IT Solutions, Web Development & Custom Software at <b>Djoeragan Cyber</b><br>
+    🏢 <b>Business & Service:</b> IT Solutions, Web Development & Custom Software at <b>Djoeragankoding</b><br>
     💼 <b>Specialization:</b> Custom Web Applications, Company Profiles, Hospital Information Systems (SIMRS), & Web Security Tools<br>
     📧 <b>Email:</b> rendikaangesti4@gmail.com | 📱 <b>WhatsApp:</b> +62895323579191
   </p>
@@ -74,5 +74,5 @@ Berikut beberapa proyek web profil & platform aktif yang saya bangun dan kelola:
 ---
 
 <div align="center">
-  <sub>⚡ Powered by <b>Djoeragan Cyber</b></sub>
+  <sub>⚡ Powered by <b>Djoeragankoding</b></sub>
 </div>
